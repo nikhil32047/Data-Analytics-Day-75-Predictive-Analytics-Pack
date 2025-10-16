@@ -1,0 +1,60 @@
+Complete Advanced Data Analytics Pack
+
+🔹 Lesson 1: Predictive Analytics Fundamentals
+==================================================
+Summary:
+Predictive analytics uses historical data + statistical models to forecast future outcomes.
+Key steps: collect data → preprocess → train ML model → evaluate → deploy
+Common algorithms: Linear Regression, Random Forest, ARIMA
+
+Example:
+An online store predicts next-month sales using past 12 months’ order data.
+
+
+🔹 Lesson 2: Building Regression Models in Python
+==================================================
+Summary:
+Regression helps find the relationship between dependent and independent variables.
+Linear Regression: predicts continuous values
+Logistic Regression: predicts binary outcomes
+Evaluate using R², MAE, RMSE
+
+Example:
+Predicting house prices based on area, bedrooms, and location.
+
+
+🔹 Lesson 3: Classification & Decision Trees
+==================================================
+Summary:
+Classification separates data into categories. Decision Trees create “if-else” rules to classify outcomes.
+Works well for categorical data
+Visual and easy to interpret
+
+Example:
+A bank classifies loan applications as “Approved” or “Rejected” based on income, credit score, and debt.
+
+
+🔹 Lesson 4: Model Evaluation & Optimization
+===============================================
+Summary:
+To ensure accuracy and avoid overfitting:
+Split data → train/test (80/20)
+Use cross-validation
+Metrics: Precision, Recall, F1-score, Confusion Matrix
+
+Example:
+A healthcare model predicting disease risk achieved F1-score = 0.92 after hyperparameter tuning.
+
+
+🔹 Lesson 5: Business Case Study – AI-Driven Sales Prediction
+==============================================================
+Summary:
+Combining all skills:
+Clean & prepare sales data
+Build regression model for revenue forecasting
+Use classification to predict “high-value” customers
+Visualize results in Power BI dashboard
+
+Example:
+A retail company used ML to predict monthly sales with 95% accuracy, increasing ROI by 23%.
+
